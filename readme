@@ -1,0 +1,12 @@
+
+it is only an encryption program
+
+how to use...
+
+in the terminal write "dart ./main.dart e and c:/'address of the txt file' c:/'address of the encrypted txt file'"
+
+the letter 'e' means that it will encrypt, if you put the letter 'd' in its place it will decrypt it
+
+example to decrypt
+
+in the terminal write "dart ./main.dart d and c:/'address of encrypted txt file' c:/'decrypted file address'"
